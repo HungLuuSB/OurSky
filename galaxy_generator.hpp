@@ -52,6 +52,4 @@ public:
     sys.generatePlanets(numPlanets, sysId, rng);
     return sys;
   }
-
-private:
 };
